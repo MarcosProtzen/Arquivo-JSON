@@ -1,3 +1,14 @@
+//JSON é um formado de representação de dados baseado na linguagem de programação Javascript, daí o nome JavaScript Object Notation. 
+//Elementos básicos do JSON: 
+    //{chaves} delimita um objeto;
+    //[conchetes] delimita um array;
+    //dois pontos : separa atributos de valores;
+    //vírgula , separa os atributos chave/valor.
+    
+//Observações sobre o arquivo:
+    //IDs - sequenciais
+    //Nomes e demais dados são fictícios
+    //Arquivo JOSON testado nas Rotas GET e PUT e funcionando corretamente
 [
     {
         "cliente_id": "00001",
