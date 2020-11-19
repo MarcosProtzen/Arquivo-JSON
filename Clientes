@@ -1,0 +1,42 @@
+[
+    {
+        "cliente_id": "00001",
+        "nome": "Sarah Liz Sebastiana Nogueira",
+        "endereco": "Rua Vinte e Três",
+        "cep": "96071364",
+        "datanascimento": "11_07_1990",
+        "telefone": "5327425808"
+    },
+        {
+        "cliente_id": "00002",
+        "nome": "Eduarda Hadassa Raimunda",
+        "endereco": "Avenida Fernando Osório",
+        "cep": "96055030",
+        "datanascimento": "23_03_1990",
+        "telefone": "5329475145"
+    },
+    {
+        "cliente_id": "00003",
+        "nome": "Murilo Caleb Silva",
+        "endereco": "Rua Oito",
+        "cep": "96050610",
+        "datanascimento": "05_10_1981",
+        "telefone": "5328498316"
+    },
+    {
+        "cliente_id": "00004",
+        "nome": "Marcos Kaique Aparício",
+        "endereco": "Rua Um",
+        "cep": "96071102",
+        "datanascimento": "26_06_1961",
+        "telefone": "5336924667"
+    },
+    {
+        "cliente_id": "00005",
+        "nome": "Thales Henrique Gomes",
+        "endereco": "Rua Professora Vanda da Silva Chagas",
+        "cep": "96020640",
+        "datanascimento": "12_04_1989",
+        "telefone": "5326783604"
+    }
+]
